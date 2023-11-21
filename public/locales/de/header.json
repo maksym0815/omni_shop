@@ -1,0 +1,21 @@
+{
+  "topbar": {
+    "discount": "Erhalten Sie 25% Rabatt auf einen ersten Einkauf.",
+    "careers": "Karriere",
+    "help": "Hilfe",
+    "buyer": "Käuferschutz",
+    "download": "Mobile APP herunterladen",
+    "phone": "+0123 456 789 000"
+  },
+  "auth": {
+    "google": "Weiter mit Google",
+    "github": "Weiter mit Github",
+    "twitter": "Weiter mit Twitter"
+  },
+  "men": "Männer",
+  "women": "Frauen",
+  "kids": "Kinder",
+  "sale": "Verkauf",
+  "blog": "Bloggen",
+  "contacts": "Kontakte"
+}
